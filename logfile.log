@@ -1,0 +1,43 @@
+2020-07-01 23:50:30,738 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-01 23:50:32,877 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 23:50:32,877 :INFO :test_loginrent :Product found with key word search
+2020-07-01 23:50:38,459 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-01 23:51:03,038 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-01 23:51:03,215 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-01 23:51:03,354 :INFO :test_signup :Signup process succeeded
+2020-07-01 23:51:13,301 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-01 23:52:17,269 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-01 23:52:19,365 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 23:52:19,365 :INFO :test_loginrent :Product found with key word search
+2020-07-01 23:52:25,279 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-01 23:52:54,839 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-01 23:52:55,017 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-01 23:52:55,140 :INFO :test_signup :Signup process succeeded
+2020-07-01 23:53:08,046 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-02 00:01:51,707 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-02 00:01:51,884 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-02 00:01:52,036 :INFO :test_signup :Signup process succeeded
+2020-07-02 00:02:01,428 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-02 00:02:11,796 :INFO :test_loggedOutRentPage :User without loggin in can browse the product and add to cart but registration needed to checkout!
+2020-07-02 00:03:42,499 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-02 00:03:44,701 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-02 00:03:44,701 :INFO :test_loginrent :Product found with key word search
+2020-07-02 00:03:50,946 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-02 00:04:09,098 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-02 00:04:09,280 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-02 00:04:09,406 :INFO :test_signup :Signup process succeeded
+2020-07-02 00:04:17,422 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-02 00:04:27,381 :INFO :test_loggedOutRentPage :User without loggin in can browse the product and add to cart but registration needed to checkout!
+2020-07-02 00:06:12,607 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-02 00:06:14,975 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-02 00:06:14,975 :INFO :test_loginrent :Product found with key word search
+2020-07-02 00:06:20,585 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-02 00:21:48,901 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-02 00:21:51,553 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-02 00:21:51,553 :INFO :test_loginrent :Product found with key word search
+2020-07-02 00:21:57,280 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-02 00:22:14,639 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-02 00:22:14,817 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-02 00:22:14,945 :INFO :test_signup :Signup process succeeded
+2020-07-02 00:22:23,366 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-02 00:22:32,922 :INFO :test_loggedOutRentPage :User without loggin in can browse the product and add to cart but registration needed to checkout!

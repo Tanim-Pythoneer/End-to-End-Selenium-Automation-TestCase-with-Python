@@ -1,0 +1,36 @@
+2020-07-01 19:02:14,464 :INFO :test_signup :Signup process succeeded
+2020-07-01 21:21:14,583 :INFO :test_signup :Signup process succeeded
+2020-07-01 21:23:49,433 :INFO :test_signup :Signup process succeeded
+2020-07-01 21:55:17,422 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 21:55:17,423 :INFO :test_loginrent :Product found with key word search
+2020-07-01 21:56:56,026 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 21:56:56,026 :INFO :test_loginrent :Product found with key word search
+2020-07-01 21:57:02,379 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-01 22:40:26,441 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-01 22:40:29,757 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 22:40:29,757 :INFO :test_loginrent :Product found with key word search
+2020-07-01 22:40:35,702 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-01 22:43:13,282 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-01 22:43:15,658 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 22:43:15,658 :INFO :test_loginrent :Product found with key word search
+2020-07-01 22:43:21,561 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-01 22:44:25,109 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-01 22:44:27,387 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 22:44:27,387 :INFO :test_loginrent :Product found with key word search
+2020-07-01 22:44:33,989 :INFO :test_loginrent :Product Added to cart successfully
+2020-07-01 23:29:58,834 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-01 23:30:24,437 :WARNING :test_loggedOutRentPage :'About', 'How Liiteri works' and 'Contact us' page opens in new window always. 'Subscription' page works normally.
+2020-07-01 23:30:34,092 :INFO :test_loggedOutRentPage :User without loggin in can browse the product and add to cart but registration needed to checkout!
+2020-07-01 23:46:10,560 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-01 23:46:10,700 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-01 23:46:10,845 :INFO :test_signup :Signup process succeeded
+2020-07-01 23:46:57,485 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-01 23:46:57,628 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-01 23:46:57,777 :INFO :test_signup :Signup process succeeded
+2020-07-01 23:48:59,128 :WARNING :test_signup :Address accepted with Numerical value only, for example 000 used in my case
+2020-07-01 23:48:59,312 :WARNING :test_signup :Phone number accepted with alphabetical value
+2020-07-01 23:48:59,458 :INFO :test_signup :Signup process succeeded
+2020-07-01 23:54:05,618 :INFO :test_loginrent :No Sql injection problem found. Tried query with (' or 1=1;--) But remained FALSE
+2020-07-01 23:54:07,791 :WARNING :test_loginrent :Right Navigation arrow not visible properly (class= 'fa fa-2x fa-chevron-right nav-arrow')
+2020-07-01 23:54:07,791 :INFO :test_loginrent :Product found with key word search
+2020-07-01 23:54:13,511 :INFO :test_loginrent :Product Added to cart successfully
